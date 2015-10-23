@@ -90,6 +90,7 @@ public class Calculator extends JFrame implements ActionListener {
 
     }
     
+//diastaseis dimW -> dimensions Width  dimH -> dimensions Height
         int[] dimW = {300, 45, 100, 90};
         int[] dimH = {35, 40};
         
